@@ -8,13 +8,14 @@ Li scrivo per fissare quello che imparo e, spero, per essere utili a chi si sta 
 ## Indice
 
 <!-- INDEX:START -->
-**Writeup pubblicati: 1**
+**Writeup pubblicati: 2**
 
 ### cyberchallenge
 
 | Challenge | Categoria | Difficoltà | Punti | Data |
 |---|---|---|---|---|
 | [Network Security - Intro: Wireshark](cyberchallenge/network/wireshark-intro/) | network | intro | - | 2026-11-20 |
+| [Useless](cyberchallenge/network/useless/) | network | - | - | 2026-11-20 |
 <!-- INDEX:END -->
 
 ## Struttura del repo

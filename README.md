@@ -8,13 +8,14 @@ Li scrivo per fissare quello che imparo e, spero, per essere utili a chi si sta 
 ## Indice
 
 <!-- INDEX:START -->
-**Writeup pubblicati: 3**
+**Writeup pubblicati: 4**
 
 ### cyberchallenge
 
 | Challenge | Categoria | Difficoltà | Punti | Data |
 |---|---|---|---|---|
 | [Network Security - Intro: Wireshark](cyberchallenge/network/wireshark-intro/) | network | intro | - | 2026-11-20 |
+| [Protocollo datagramma utente](cyberchallenge/network/protocollo-datagramma-utente/) | network | - | 494 | 2026-11-25 |
 | [sniff-n-byte](cyberchallenge/network/sniff-n-byte/) | network | - | - | - |
 | [Useless](cyberchallenge/network/useless/) | network | - | - | 2026-11-20 |
 <!-- INDEX:END -->

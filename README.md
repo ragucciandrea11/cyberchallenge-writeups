@@ -8,15 +8,16 @@ Li scrivo per fissare quello che imparo e, spero, per essere utili a chi si sta 
 ## Indice
 
 <!-- INDEX:START -->
-**Writeup pubblicati: 4**
+**Writeup pubblicati: 5**
 
 ### cyberchallenge
 
 | Challenge | Categoria | Difficoltà | Punti | Data |
 |---|---|---|---|---|
+| [G4tto](cyberchallenge/network/g4tto/) | network | - | 490 | 2026-11-25 |
 | [Network Security - Intro: Wireshark](cyberchallenge/network/wireshark-intro/) | network | intro | - | 2026-11-20 |
 | [Protocollo datagramma utente](cyberchallenge/network/protocollo-datagramma-utente/) | network | - | 494 | 2026-11-25 |
-| [sniff-n-byte](cyberchallenge/network/sniff-n-byte/) | network | - | - | - |
+| [Sniff 'n' byte](cyberchallenge/network/sniff-n-byte/) | network | - | 493 | 2026-11-25 |
 | [Useless](cyberchallenge/network/useless/) | network | - | - | 2026-11-20 |
 <!-- INDEX:END -->
 

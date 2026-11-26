@@ -8,18 +8,20 @@ Li scrivo per fissare quello che imparo e, spero, per essere utili a chi si sta 
 ## Indice
 
 <!-- INDEX:START -->
-**Writeup pubblicati: 6**
+**Writeup pubblicati: 8**
 
 ### cyberchallenge
 
 | Challenge | Categoria | Difficoltà | Punti | Data |
 |---|---|---|---|---|
+| [Benvenvti!](cyberchallenge/crypto/benvenvti/) | crypto | - | 497 | 2026-11-26 |
 | [easy stream](cyberchallenge/network/easy-stream/) | network | - | 492 | 2026-11-25 |
 | [G4tto](cyberchallenge/network/g4tto/) | network | - | 490 | 2026-11-25 |
 | [Network Security - Intro: Wireshark](cyberchallenge/network/wireshark-intro/) | network | intro | - | 2026-11-20 |
 | [Protocollo datagramma utente](cyberchallenge/network/protocollo-datagramma-utente/) | network | - | 494 | 2026-11-25 |
 | [Sniff 'n' byte](cyberchallenge/network/sniff-n-byte/) | network | - | 493 | 2026-11-25 |
 | [Useless](cyberchallenge/network/useless/) | network | - | - | 2026-11-20 |
+| [wordwang](cyberchallenge/network/wordwang/) | network | - | 498 | 2026-11-26 |
 <!-- INDEX:END -->
 
 ## Struttura del repo
